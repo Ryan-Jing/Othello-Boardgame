@@ -1,0 +1,15 @@
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/bin/Debug/net7.0/OthelloBoardgame
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/bin/Debug/net7.0/OthelloBoardgame.deps.json
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/bin/Debug/net7.0/OthelloBoardgame.runtimeconfig.json
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/bin/Debug/net7.0/OthelloBoardgame.dll
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/bin/Debug/net7.0/OthelloBoardgame.pdb
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.csproj.AssemblyReference.cache
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.AssemblyInfoInputs.cache
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.AssemblyInfo.cs
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.csproj.CoreCompileInputs.cache
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.dll
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/refint/OthelloBoardgame.dll
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.pdb
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/OthelloBoardgame.genruntimeconfig.cache
+/Users/ryanjing/Library/Mobile Documents/com~apple~CloudDocs/Ryan/Uni/Side Projects/C#/OthelloBoardgame/obj/Debug/net7.0/ref/OthelloBoardgame.dll
